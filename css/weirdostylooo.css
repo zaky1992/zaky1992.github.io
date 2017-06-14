@@ -1,0 +1,80 @@
+html {
+  background-color: none;
+}
+
+body {
+margin-left: 000px;
+}
+
+
+
+.navbar-brand{
+  font-size:30px;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+
+
+
+.nav>li>a:hover,
+.nav-link:hover {
+  background-color:transparent;
+}
+
+
+.bg-primary {
+    background-color: #69707a!important;
+}
+
+
+.nav-link{
+  font-size:30px;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+.jumbotron {
+  background: #f5f7f9;
+  color: #69707a;
+  font-family: 'Bubbler One', sans-serif;
+  padding: 0;
+  margin width: 0;
+}
+
+.title_of_page {
+	font-size: 195px !important;
+}
+
+.introduce_zaky{
+	color: #2a388f;
+	font-size: 20px;
+	margin width: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+.container {
+width: 100%
+}
+
+.rhomb {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 180px;
+  height: 180px;
+  margin: 100px auto 0 auto;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  /*color: rgba(0,0,0,1);*/
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: #2a388f;
+  -webkit-transform: rotateZ(-45deg)   ;
+  transform: rotateZ(-45deg)   ;
+  -webkit-transform-origin: 0 100% 0deg;
+  transform-origin: 0 100% 0deg;
+}
+
